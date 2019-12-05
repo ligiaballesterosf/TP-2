@@ -1,0 +1,22 @@
+{
+  "name": "tp02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ventas.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antocisale/tp02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antocisale/tp02/issues"
+  },
+  "homepage": "https://github.com/antocisale/tp02#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
